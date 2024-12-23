@@ -10,3 +10,5 @@ This project implements a basic version of the **Enigma machine** in Python. It 
 ## Planned Improvements:
 - Implement rotor rotation to mimic the Enigma machine's stepping mechanism.
 - Add rotor notch positions to trigger the rotation of adjacent rotors after a full rotation.
+
+![Enigma Machine](https://github.com/Matin1498/Simple-Enigma/blob/main/Enigma-Machine.jpg)
