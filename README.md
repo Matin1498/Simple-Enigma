@@ -4,8 +4,7 @@ This project implements a basic version of the **Enigma machine** in Python. It 
 
 ## Features:
 - Encrypts a given message with configurable rotors and reflectors.
-- Customizable rotors and reflectors.
-- Supports rotor rotation after each letter is encrypted.
+- Customizable plugboard, rotors and reflectors.
 
 ## Planned Improvements:
 - Implement rotor rotation to mimic the Enigma machine's stepping mechanism.
