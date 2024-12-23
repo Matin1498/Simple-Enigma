@@ -1,1 +1,12 @@
-# Simple-Enigma
+# Simple Enigma Machine in Python
+
+This project implements a basic version of the **Enigma machine** in Python. It allows you to encrypt messages using plugboard, rotors and reflectors, with the ability to change the plugboard, reflector and rotors to customize encryption. The machine simulates the process of letter encryption by passing input through multiple rotors and a reflector, using substitution cipher techniques.
+
+## Features:
+- Encrypts a given message with configurable rotors and reflectors.
+- Customizable rotors and reflectors.
+- Supports rotor rotation after each letter is encrypted.
+
+## Planned Improvements:
+- Implement rotor rotation to mimic the Enigma machine's stepping mechanism.
+- Add rotor notch positions to trigger the rotation of adjacent rotors after a full rotation.
